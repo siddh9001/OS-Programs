@@ -1,2 +1,2 @@
 # OS-Programs
-This Repository contains different types of OS programs , like parent-child process, command line execution, piping within the processes, producer-consumer problem, process Scheduling etc.
+This Repository contains different types of OS programs , like parent-child process, command line execution, interprocess communication using pipes, message queues, producer-consumer problem, process Scheduling etc.
